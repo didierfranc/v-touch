@@ -46,6 +46,7 @@ var app = new Vue({
 ## Thanks
 
 VueJS https://github.com/vuejs/vue
+
 HammerJS https://github.com/hammerjs/hammer.js
 
 ## License
