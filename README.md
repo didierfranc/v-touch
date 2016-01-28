@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make mobile app with VueJS. **Compatible with VueJS 1.x**
+Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make decent mobile app.. **Compatible with VueJS 1.x**
 
 
 ## Usage
