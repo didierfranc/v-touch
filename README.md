@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make decent mobile app.. **Compatible with VueJS 1.x**
+Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make decent mobile app.  **Compatible with VueJS 1.x**
 
 
 ## Usage
@@ -21,7 +21,7 @@ Just add `vue-touch.min.js` to your project after Vue.js. It includes a fresh ve
 ## Example
 ```html
 <div id="app">
-  <a v-touch:swipeleft="plus()" v-touch:swiperight="moins()" v-model="number">{{ number }}</a>
+  <span v-touch:swipeleft="plus()" v-touch:swiperight="moins()" v-model="number">{{ number }}</span>
 </div>
 ```
 
@@ -46,7 +46,7 @@ var app = new Vue({
 ## Thanks
 
 VueJS https://github.com/vuejs/vue
-
+&
 HammerJS https://github.com/hammerjs/hammer.js
 
 ## License
