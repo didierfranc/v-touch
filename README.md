@@ -3,14 +3,14 @@
 
 ## Introduction
 
-Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make decent mobile app.  **Compatible with VueJS 1.x**
+Vue-touch is the easiest way to use HammerJS with the excellent VueJS framework, it's essential to make decent mobile app.  **Compatible with VueJS 1.x**.
 
 
 ## Usage
 Vue-touch adds the **`v-touch:event`** directive to your vue instance. You can easily play with `tap` `doubletap` `press` `swipe` `swiperight` `swipeleft` and more.
 
 ## Installation
-Just add `vue-touch.min.js` to your project after Vue.js. It includes a fresh version of Hammer.
+Just add `vue-touch.min.js` to your project after `vue.min.js`. It includes a fresh version of Hammer.
 
 ```html
 <script src="lib/vue.min.js"></script>
