@@ -52,4 +52,4 @@ HammerJS https://github.com/hammerjs/hammer.js
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2016 Didier Franc
+Copyright © 2016 Didier Franc
