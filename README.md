@@ -1,4 +1,4 @@
-# vue-touch
+# v-touch
 
 
 ## Introduction
