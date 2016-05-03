@@ -12,7 +12,7 @@ function hammer (element, event, callback){
   var touchable = new Hammer(element)
 
   touchable.on(event, function(ev) {
-    callback()
+    callback(ev)
   })
 
 }
